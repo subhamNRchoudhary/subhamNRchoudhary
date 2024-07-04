@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/subhamNRchoudhary/subhamNRchoudhary/blob/main/Subham%20Banner.png" alt="Subham Choudhary Banner"/>
+  <img src="https://github.com/subhamNRchoudhary/subhamNRchoudhary/blob/main/banner.png" alt="Subham Choudhary Banner"/>
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Subham Choudhary</h1>
