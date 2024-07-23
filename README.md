@@ -82,12 +82,5 @@
 
 
 
-### Analysis Image 1
-![Analysis Image 1](./images/image1.png)
 
-### Analysis Image 2
-![Analysis Image 2](./images/image2.png)
-
-### Analysis Image 3
-![Analysis Image 3](./images/image3.png)
 
