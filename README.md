@@ -19,6 +19,8 @@
 - 💬 Ask me about **Python, SQL, Power BI, Excel, Machine Learning**
 - 📫 How to reach me **subhamsunny153@gmail.com**
 
+- 📝 [Resume] [here](https://drive.google.com/file/d/1mKAGxzIn2XFvVt5qBdJSOFXm1e8aGjH_/view?usp=drive_link).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/subham-choudhary-238654229/" target="blank">
