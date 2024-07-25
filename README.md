@@ -84,25 +84,5 @@
 [![Subham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamNRchoudhary&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-# Projects Overview
 
-Here is an overview of the different types of projects in my GitHub repository:
-
-- ![Python Projects](https://img.shields.io/badge/Python-5-blue)
-- ![SQL Projects](https://img.shields.io/badge/SQL-3-red)
-- ![Power BI Projects](https://img.shields.io/badge/Power%20BI-2-yellow)
-- ![Tableau Projects](https://img.shields.io/badge/Tableau-4-green)
-- ![Excel Projects](https://img.shields.io/badge/Excel-3-lightgrey)
-
-
-
-  # Projects Overview
-
-Here is an overview of the different types of projects in my GitHub repository:
-
-![Python Projects](https://img.shields.io/badge/Python-5-blue)
-![SQL Projects](https://img.shields.io/badge/SQL-3-red)
-![Power BI Projects](https://img.shields.io/badge/Power%20BI-2-yellow)
-![Tableau Projects](https://img.shields.io/badge/Tableau-4-green)
-![Excel Projects](https://img.shields.io/badge/Excel-3-lightgrey)
 
