@@ -83,6 +83,56 @@
 
 [![Subham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhamNRchoudhary&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+# Projects Overview
+
+Here is an overview of the different types of projects in my GitHub repository:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+  <div style="flex: 0 0 45%; padding: 10px; margin: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">Python Projects</h3>
+    <ul>
+      <li><a href="https://github.com/yourusername/python-project-1">Python Project 1</a></li>
+      <li><a href="https://github.com/yourusername/python-project-2">Python Project 2</a></li>
+      <li><a href="https://github.com/yourusername/python-project-3">Python Project 3</a></li>
+    </ul>
+  </div>
+
+  <div style="flex: 0 0 45%; padding: 10px; margin: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">SQL Projects</h3>
+    <ul>
+      <li><a href="https://github.com/yourusername/sql-project-1">SQL Project 1</a></li>
+      <li><a href="https://github.com/yourusername/sql-project-2">SQL Project 2</a></li>
+    </ul>
+  </div>
+
+  <div style="flex: 0 0 45%; padding: 10px; margin: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">Power BI Projects</h3>
+    <ul>
+      <li><a href="https://github.com/yourusername/powerbi-project-1">Power BI Project 1</a></li>
+      <li><a href="https://github.com/yourusername/powerbi-project-2">Power BI Project 2</a></li>
+    </ul>
+  </div>
+
+  <div style="flex: 0 0 45%; padding: 10px; margin: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">Tableau Projects</h3>
+    <ul>
+      <li><a href="https://github.com/yourusername/tableau-project-1">Tableau Project 1</a></li>
+      <li><a href="https://github.com/yourusername/tableau-project-2">Tableau Project 2</a></li>
+    </ul>
+  </div>
+
+  <div style="flex: 0 0 45%; padding: 10px; margin: 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f9f9f9;">
+    <h3 style="text-align: center;">Excel Projects</h3>
+    <ul>
+      <li><a href="https://github.com/yourusername/excel-project-1">Excel Project 1</a></li>
+      <li><a href="https://github.com/yourusername/excel-project-2">Excel Project 2</a></li>
+    </ul>
+  </div>
+
+</div>
+
+
 
 
 
