@@ -93,3 +93,16 @@ Here is an overview of the different types of projects in my GitHub repository:
 - ![Power BI Projects](https://img.shields.io/badge/Power%20BI-2-yellow)
 - ![Tableau Projects](https://img.shields.io/badge/Tableau-4-green)
 - ![Excel Projects](https://img.shields.io/badge/Excel-3-lightgrey)
+
+
+
+  # Projects Overview
+
+Here is an overview of the different types of projects in my GitHub repository:
+
+![Python Projects](https://img.shields.io/badge/Python-5-blue)
+![SQL Projects](https://img.shields.io/badge/SQL-3-red)
+![Power BI Projects](https://img.shields.io/badge/Power%20BI-2-yellow)
+![Tableau Projects](https://img.shields.io/badge/Tableau-4-green)
+![Excel Projects](https://img.shields.io/badge/Excel-3-lightgrey)
+
