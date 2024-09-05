@@ -7,8 +7,14 @@
 <h1 align="center">Hi 👋, I'm Subham Choudhary</h1>
 <h3 align="center">Analyst | Strategic Planning | Business Insights | Python-Excel-SQL-Power BI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamnrchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="subhamnrchoudhary" /> </p>  
- <img src="https://img.shields.io/github/followers/subhamNRchoudhary?style=social" alt="subhamNRchoudhary followers" /> </p>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=subhamnrchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="subhamnrchoudhary" />
+    <img src="https://img.shields.io/github/followers/subhamNRchoudhary?style=social" alt="subhamNRchoudhary followers" />
+    <img src="https://img.shields.io/github/stars/subhamNRchoudhary/subhamNRchoudhary?style=social" alt="GitHub Stars" />
+</p>
+
+
 
 
 
